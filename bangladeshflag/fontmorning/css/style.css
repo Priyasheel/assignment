@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.icon-area{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.icon-area ul{
+    list-style: none;
+}
+.icon-area ul li{
+    display: inline;
+}
+.icon-area ul li a{
+    background-color: bisque;
+    font-size: 40px;
+    padding: 10px 20px;
+    display: inline-block;
+    color: black;
+    border-radius: 20px;
+}
+.icon-area ul li a:hover{
+    background-color:blue;
+    transition: 2s;
+    transform: rotate(9000deg);
+    border-radius: 50%;
+    color:whitesmoke;
+}

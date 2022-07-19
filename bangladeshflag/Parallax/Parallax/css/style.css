@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.designheading1{
+    background-color:bisque;
+    color:black;
+    padding:2px;
+    text-align: center;
+    transform-origin:5px;
+}
+.parallax{
+    background-image: url(../img/laptop.jpg);
+    min-height:600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:scroll;
+}
+.designheading2{
+    background-color: rgb(59, 58, 58);
+    color:rgb(79, 243, 54);
+    padding: 10px;
+    font-size: 30px;
+    text-align: end;
+}
+.parallax2{
+    background-image: url(../img/nouka.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.designheading3{
+    background-color: hwb(0 10% 89%);
+    color:skyblue;
+    padding: 5px;
+    text-align:initial;
+}    
+.parallax3{
+    background-image: url(../img/2022-05-29.jpg);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.designheading4{
+    background-color: black;
+    color: whitesmoke;
+    padding-left: 10px;
+    text-align:center;
+    transition: all;
+}
+.paralax4{
+    background-image:url(../img/shutter.jpg);
+    min-height: 600px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.designheading5{
+    background-color:blanchedalmond;
+    color: rgb(233, 184, 237);
+    padding-right:10px;
+    text-align:center;
+}
+.paralax5{
+    background-image:url(../img/christin\ laptop.jpg);
+    min-height: 600px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:scroll;
+}

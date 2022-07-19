@@ -1,0 +1,40 @@
+.body{
+    background-color:black;
+}
+.orange{
+  height:80px;
+  width: 300px;
+  background-color: orange;
+
+}
+.white{
+  height: 80px;
+  width: 300px;
+  background-color:white;
+
+}
+.green{
+    height: 80px;
+    width: 300px;
+    background-color:green;
+}
+.Garmany{
+    width: 350px;
+    height: 200px;
+    margin-right:200px;
+}
+.black{
+    height: 80px;
+    width: 350px;
+    background-color:black;
+}
+.red{
+    height: 80px;
+    width: 350px;
+    background-color:red;
+}
+.yellow{
+    height: 80px;
+    width: 350px;
+    background-color:yellow;
+}

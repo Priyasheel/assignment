@@ -1,0 +1,29 @@
+.mainbox{
+    height:500px;
+    width: 700px;
+    margin:auto;
+    
+}
+
+.argentina1{
+    height:150px;
+    width:700px;
+    background-color:rgba(15, 170, 231, 0.854)
+}
+.argentina2{
+    height:150px;
+    width:700px;
+    margin:auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+
+}
+.argentina3{
+    height: 150px;
+    width: 700px;
+    background-color:rgba(15, 170, 231, 0.854);
+
+
+}
